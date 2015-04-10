@@ -2,13 +2,14 @@
 
 This is a fork of the [OTP repository](https://github.com/opentripplanner/OpenTripPlanner) and works as a standalone web interface to use the OTP API.
 
+The main purpose of this project is to debug OTP API results.
 
 ##### Start Web Interface
 ```
 python -m SimpleHTTPServer
 ```
 
-#### Set router and host name
+##### Set router and host name
 
 edit `js/otp/config.js`
 
